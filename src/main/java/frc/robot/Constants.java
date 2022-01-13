@@ -18,10 +18,10 @@ package frc.robot;
 public final class Constants {
     //practice bot - 1, 3, 2, 4
     //comp bot - 0, 16, 2, 3
-    public static final int Motor_Left_1_ID = 1;
-    public static final int Motor_Left_2_ID = 3;
+    public static final int Motor_Left_1_ID = 0;
+    public static final int Motor_Left_2_ID = 16;
     public static final int Motor_Right_1_ID = 2;
-    public static final int Motor_Right_2_ID = 4;
+    public static final int Motor_Right_2_ID = 3;
     public static final int joyPort = 0;
     public static final int steeringPort = 2;
 	public static final int yAxisNum = 1;
